@@ -8,6 +8,19 @@ Since I’m in the technological world, my proactivity, optimist and great attit
 
 💻🖱⌨🖨 I'm currently working as a Freelancer Tech Support Engineer, gaining more practice, and also, training and maintain my continuous learning through courses and other means of learning, like videos or online documentation.
 
+## Hobbies
+- Compose music🎶                                                                    
+- Singing🎙                                                                               
+- Programming languages💻
+- Go for a walks🚶‍♂️ 
+- Comtemplate the sunrise and the sunset🌄🌅           
+- Traveling🛫
+- Workout💪🦵🤸‍♂️
+- Meditation🙂
+- Dancing 🕺
+- Smile
+
+
 ## Find me🔔📱:
 - [![LinkedIn](https://img.shields.io/badge/José_Luis_Zárate_Robles-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-luis-zarate-robles-982a2a204/)
 - [![Github](https://img.shields.io/badge/jlzarate-black?style=for-the-badge&logo=github)](https://github/jlzarate)
