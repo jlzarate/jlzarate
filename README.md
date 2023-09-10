@@ -1,5 +1,4 @@
-# Hi there 👋 
-# My Name is José Luis Zárate Robles
+# Hi there 👋 My Name is José Luis Zárate Robles
 ![Banner laboral](https://github.com/jlzarate/jlzarate/assets/103462837/58ae9b1f-ed43-4536-a755-308c8dfc9c58)
 
 
