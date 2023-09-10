@@ -36,6 +36,7 @@ Since I’m in the technological world, my proactivity, optimist and great attit
 ![My_SQL](https://img.shields.io/badge/My_SQL-blue?style=for-the-badge&logo=mysql)
 ![Networking](https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=?)
 ![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Hardware_and_Software_Troubleshooting](https://img.shields.io/badge/Hardware_and_Software_Troubleshooting-black?style=for-the-badge&logo=opensourcehardware)
 ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux)
 ![AWS](https://img.shields.io/badge/AWS-ec8800?style=for-the-badge&logo=amazonaws)
@@ -52,12 +53,11 @@ Since I’m in the technological world, my proactivity, optimist and great attit
 ![MacOS](https://img.shields.io/badge/MacOS-025776?style=for-the-badge&logo=macos)
 ![Android](https://img.shields.io/badge/Android_Devices-green?style=for-the-badge&logo=android)
 ![Apple](https://img.shields.io/badge/Apple_Devices-grey?style=for-the-badge&logo=apple)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 ![Google_Workspace](https://img.shields.io/badge/Google_Workspace-419f00?style=for-the-badge&logo=google)
 ![Remote_Accesses](https://img.shields.io/badge/Remote_Accesses-02253d?style=for-the-badge&logo=?)
 ![CRM](https://img.shields.io/badge/CRM-yellow?style=for-the-badge&logo=?)
 ![Ticket_Systems](https://img.shields.io/badge/Ticket_Systems-yellow?style=for-the-badge&logo=?)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity)
-
 
 ## Languages
 ![Spanish](https://img.shields.io/badge/Spanish-NATIVE-022a76)
