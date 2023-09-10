@@ -73,6 +73,6 @@ Since I’m in the technological world, my proactivity, optimist and great attit
 - ![UX/UI](https://img.shields.io/badge/UX/UI_Design-black?style=for-the-badge&logo=figma)
 
 ## Contact me:
-![Outlook](https://img.shields.io/badge/zaraterobles__jl.1096@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook) 
-![Whatsapp](https://img.shields.io/badge/(+52)_322_205_8449-black?style=for-the-badge&logo=whatsapp)
+![Outlook](https://img.shields.io/badge/zaraterobles__jl.1096@outlook.com-022a76?style=for-the-badge&logo=microsoftoutlook) 
+![Whatsapp](https://img.shields.io/badge/(+52)_322_205_8449-black?style=for-the-abadge&logo=whatsapp)
 [![LinkedIn](https://img.shields.io/badge/José_Luis_Zárate_Robles-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-luis-zarate-robles-982a2a204/)
