@@ -3,17 +3,17 @@
 
 
 ## About me:
-With a bachelor’s degree in Computer Systems Engineering, and at least 2 years of experience of tech support and customer service experience, and a passion for learn new technologies and helping other people with their issues, considering that attention to detail, perseverance, discipline and optomistic are key facts to improve methods and complete deadlines, essential for personal and professional growth.
-Since I’m in the technological world, my proactivity, optimist and great attitude have led me to continue feeding my mind about new methods of cybersecurity, data protection and communication between networks worldwide.
+With a bachelor’s degree in Computer Systems Engineering, at least 2 years of experience in tech support and customer service experience, and a passion for learning new technologies and helping other people with their issues, considering that attention to detail, perseverance, discipline and optimistic are key facts to improve methods and complete deadlines, essential for personal and professional growth.
+Since I’m in the technological world, my proactivity, optimism, and great attitude have led me to continue feeding my mind about new methods of cybersecurity, data protection, and communication between networks worldwide.
 
-💻🖱⌨🖨 I'm currently working as a Freelancer Tech Support Engineer, gaining more practice, and also, training and maintain my continuous learning through courses and other means of learning, like videos or online documentation.
+💻🖱⌨🖨 I'm currently working as a Freelancer Tech Support Engineer, gaining more practice, and also, training and maintaining my continuous learning through courses and other means of learning, like videos or online documentation.
 
 ## Hobbies
 - Compose music🎶                                                                    
 - Singing🎙                                                                               
 - Programming languages💻
 - Go for a walks🚶‍♂️ 
-- Comtemplate the sunrise and the sunset🌄🌅           
+- Contemplate the sunrise and the sunset🌄🌅           
 - Traveling🛫
 - Workout💪🦵🤸‍♂️
 - Meditation🙂
